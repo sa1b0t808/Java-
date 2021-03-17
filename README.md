@@ -1,2 +1,2 @@
 # Java-
-Area where I practice creating programs that were given to me from school
+Area where I practice creating programs from problems that I were given in my programming class.
